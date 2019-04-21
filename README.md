@@ -1,3 +1,5 @@
+I created this project while working through "Docker and Kubernetes: The Complete Course"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
